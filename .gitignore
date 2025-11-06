@@ -146,6 +146,7 @@ venv.bak/
 
 ##new environment added 
 venv/
+myenv/
 
 # Spyder project settings
 .spyderproject
